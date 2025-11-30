@@ -3,6 +3,8 @@
 
 _____________________________________________________
 Используется библиотека pygame
+
+
 Установка pygame
 
 Arch Linux: sudo pacman -S python-pygame
